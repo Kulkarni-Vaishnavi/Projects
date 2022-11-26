@@ -1,0 +1,20 @@
+html {
+    background-color: #E69A8DFF;
+    background-image: -webkit-linear-gradient(65deg, #5F4B8BFF 50%, #E69A8DFF 50%);
+    min-height: 1000px;
+    font-family: 'helvetica neue';
+  }
+  
+
+th, td {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+  }
+
+table{
+    margin: auto;
+    margin-top: 55px;
+    text-align: center;
+}
